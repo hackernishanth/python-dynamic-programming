@@ -5,10 +5,8 @@
 ## Fibonacci Series
 
    0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597,...etc.
-
 Fibonacci Explanation 
    The first value should be added with the second value and second value added with the third value and so on.
-
 Fibonacci Time Complexcity
    In normal we can find the fibonacci series ==> O(2**n)times, but in the case of dynamic programming 
    we can find the fibonacci value ==> O(n)times through dynamic programming we are removing 
